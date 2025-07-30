@@ -1,0 +1,7 @@
+Temp/
+Build/
+Logs/
+Obj/
+MemoryCaptures/
+Library/
+*.so
